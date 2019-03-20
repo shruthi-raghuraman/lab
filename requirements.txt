@@ -1,6 +1,7 @@
 gremlinpython
-jupyter_require
+ipython
+jupyter-require
 networkx
-requests
 pandas
 plotly
+requests
